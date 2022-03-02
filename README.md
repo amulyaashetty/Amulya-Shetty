@@ -34,6 +34,15 @@ I am an Electronics and Comuunication undergrad pursuing my Btech from PES Unive
 <a href = "https://www.linkedin.com/in/amulya-shetty-549b97213/" ><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "https://www.instagram.com/_amulyashetty_/" ><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
+## 🏆 GitHub Stats
+![Amulya Shetty's Github stats](https://github-readme-stats.vercel.app/api?username=amulyaashetty&count_private=true&theme=tokyonight)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amulyaashetty&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amulyaashetty&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+<img alt="Amulya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amulyaashetty&theme=github"/>
+
 
 
 
