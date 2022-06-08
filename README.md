@@ -40,7 +40,7 @@ I am an Electronics and Comuunication undergrad pursuing my Btech from PES Unive
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amulyaashetty&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-<img alt="Amulya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amulyaashetty&theme=github"/>
+<img alt="Amulya's's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amulyaashetty&theme=github"/>
 
 
 
