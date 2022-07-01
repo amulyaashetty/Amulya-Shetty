@@ -1,4 +1,4 @@
-# Hello!! I am Amulya Shetty <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# Hello!! I am Amulya Shetty 
 I am an Electronics and Comuunication undergrad pursuing my Btech from PES University.
 
 ## 🔡Languages
