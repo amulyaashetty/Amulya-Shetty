@@ -1,4 +1,4 @@
-# Hello!! I am Amulya Shetty 
+# Hello!! I am Amulya  
 I am an Electronics and Comuunication undergrad pursuing my Btech from PES University.
 
 ## 🔡Languages
