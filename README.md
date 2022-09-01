@@ -1,5 +1,5 @@
 # Hello!! I am Amulya  
-I am an Electronics and Comuunication undergrad pursuing my Btech from PES University.
+I am an Electronics and Comuunication student pursuing my Btech from PES University.
 
 ## 🔡Languages
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
